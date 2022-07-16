@@ -3,7 +3,7 @@ title: "润宏水产"
 date: 2022-07-13T13:42:18+09:00
 #draft: true
 cascade:
-  featured_image: 'images/aquatic.jpg'
+  featured_image: '/images/bg2.jpg'
 ---
 # 润宏水产
 

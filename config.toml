@@ -1,25 +1,17 @@
 baseURL = "https://rh-aquatic.com"
+#baseURL = "http://localhost:1313"
 title = "潤宏水産"
 theme = "ananke"
 
 DefaultContentLanguage = "ja"
-defaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = true
 
 [languages]
-  [languages.ja]
+  [languages."ja"]
     languageName = "Japanese"
     weight = 20
-    title = "潤宏水産"
-  [languages.zh]
+    title = "潤宏水産・Home"
+  [languages."zh"]
     languageName = "Chinese"
     weight = 20
-    title = "润宏水产"
-
-[[languages.zh.menu.main]]
-  name = "主页"
-  url = "#about"
-  weight = 1
-[[languages.ja.menu.main]]
-  name = "ホーム"
-  url = "#about"
-  weight = 1
+    title = "润宏水产/Home"
