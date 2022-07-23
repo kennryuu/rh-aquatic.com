@@ -7,8 +7,11 @@ type: page
 menu: main
 
 ---
+微信:stcjl717   
 
+![](/images/wechat.jpg)
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+邮件:[contact@rh-aquatic.com](mailto:contact@rh-aquatic.com)    
 
-{{< form-contact action="https://example.com"  >}}
+或者填写以下表格留下您的联系方式。我们将会尽快联系您。
+{{< form-contact action="https://formspree.io/f/mdobqwda"  >}}
